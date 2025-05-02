@@ -1,3 +1,6 @@
+"""
+some code to compare insertion sort and bubble sort
+"""
 import timeit
 List = [6,3,1,8,4,9,2,5,7]
 def insertSort():
