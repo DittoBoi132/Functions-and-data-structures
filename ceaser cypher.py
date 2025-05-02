@@ -16,6 +16,6 @@ def ceaserCypher(cyph):
     print(encryptWord)
     print(newWord)
 
-ceaserCypher(20)
+ceaserCypher(2)
 word = newWord
-ceaserCypher(-20)
+ceaserCypher(-2)
